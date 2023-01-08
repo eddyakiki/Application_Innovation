@@ -1,5 +1,5 @@
 # Application_Innovation
-Prédiction des notes de films à l'aide de différents modèles NLP, formés sur la base de données Allo Ciné
+Prédiction des notes de films à l'aide de différents modèles NLP, entraînés sur la base de données Allo Ciné
 # Prétraitement
 Pour lancer le prétraitement pour générer le jeux de données A  il faut lancer le code du fichier pretraitement.ipynb sauf la fonction qui enlève les stop words marqué dans le fichier.   
 Pour générer le jeux de données B Il faut décomenter les lignes de code indiqué dans la fonction text_preprocessing_pipeline et puis lancer tous le code.   
