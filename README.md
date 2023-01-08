@@ -30,7 +30,7 @@ Le fichier Camembert_final_complete contient le code pour entraîner le model ca
 Il faut lancer tout les blocs de code du fichier lexique_sentimentale_stat, et vérifier que vous avez sauvgarder les trois fichier cvs de train test et dev avec la nouvelle colonne de polarité ainsi que les résultats de classement de la méthode naïve dans trois fichier text différents pour train test et dev.  
 Vous pouvez ensuite lancer l'entraînement du model CNN avec la polarité en lançant tous les blocs de code dans le fichier CNN_polarity, et en vérifiant que les dataframes de polarity ont le path du dataframe polarity généré par le fichier lexique_sentimentale_stat, et que les fichier de résultats de classement ont aussi les paths correspondants.  
  
-| :---- | :----: |
-| A : Méthode Naïve | 13% |
-| A:  CNN | 39,68% |
+|  | Méthode Naïve | CNN | 
+| :---- | :----: | :----: | 
+| A | 13,6% | 39,68% | 
 
