@@ -1,2 +1,2 @@
 # Application_Innovation
-Prédiction des notes de films en utilisant différent modèles NLP, entraîné sur la base de données Allo Ciné
+Prédiction des notes de films à l'aide de différents modèles NLP, formés sur la base de données Allo Ciné
