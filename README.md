@@ -13,4 +13,4 @@ Pour lancer le train de modèles utilisant keras tokenizer, il suffit d'exécute
 # Camembert
 Le fichier Camembert_final_complete contient le code pour entraîner le model camembert. Pour lancer l'entraînement sur les deux différents jeux de données il suffit de changer le path de pd.read_csv() et lancer le code sans rien changer
 # Lexique Sentimentale
-
+Il faut lancer tout les blocs de code du fichier lexique_sentimentale_stat, et vérifier que vous avez sauvgarder les trois fichier cvs de train test et dev avec la nouvelle colonne de polarité ainsi que les résultats de classement de la méthode naïve dans trois fichier text différents pour train test et dev
