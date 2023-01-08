@@ -15,7 +15,7 @@ Le tableau ci-dessous montre les accuracy de validation des modèles entraînés
 # CNN
 Pour modifier le jeu de données à utiliser, il suffit de changer le chemin dans les fonctions pd.read_csv().   
 Pour lancer l'entraînement du modèle en utilisant word2vec ou fast text, il suffit d'exécuter les blocs de code sous leur titre respectif   après avoir généré les embeddings initiaux.   
-Pour lancer le train de modèles utilisant keras tokenizer, il suffit d'exécuter les derniers blocs de code sous le titre keras tokenizer après avoir généré les embeddings initiaux
+Pour lancer le train de modèles utilisant keras tokenizer, il suffit d'exécuter les derniers blocs de code sous le titre keras tokenizer après avoir généré les embeddings initiaux.  
 Le tableau ci-dessous montre les accuracy de validation des modèles entraînés sur les ensembles de données A et B en utilisant les différents types de embeddings.  
 |  | A | B | 
 | :---- | :----: | :----: | 
