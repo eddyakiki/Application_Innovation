@@ -6,6 +6,9 @@ Pour générer le jeux de données B Il faut décomenter les lignes de code indi
 # SVM 
 Pour modifier le jeu de données à utiliser, il suffit de changer le chemin dans les fonctions pd.read_csv().    
 Pour lancer l'entraînement du SVM faut lancer tous les blocs de code dans le fichier testNLP.   
+| Jeux de Données A | Jeux de données B| 
+| :---- | :----: | 
+| 32%| 34% | 
 # CNN
 Pour modifier le jeu de données à utiliser, il suffit de changer le chemin dans les fonctions pd.read_csv().   
 Pour lancer l'entraînement du modèle en utilisant word2vec ou fast text, il suffit d'exécuter les blocs de code sous leur titre respectif   après avoir généré les embeddings initiaux.   
